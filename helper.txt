@@ -1,2 +1,2 @@
 1st test helper
-2nd test helper from tdd
+1st test sat-hotfix
